@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tech-a02/coursework/labs/Lab16-DevOpsLab/multi-machine-lab","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/home/ubuntu/environment":{"guestpath":"/home/ubuntu/environment","hostpath":"/Users/tech-06x/coursework/devopsLabs/multi-machine/environment/db","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tech-06x/coursework/devopsLabs/multi-machine","disabled":false,"__vagrantfile":true}}}
