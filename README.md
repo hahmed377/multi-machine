@@ -23,4 +23,4 @@ When you have the second machine running further configuration of the app is req
 We will cover this in the next lesson.
 You can test your database is working correctly by running the test suite in the test folder.
 
-There are two sets of tests. One for the app VM and one for the db VM. Make them all pass.
+There are two sets of tests. One for the app VM and one for the db VM. Make them all pass..
